@@ -1,6 +1,5 @@
 # Simple Image Carousel Library
 
-[![NPM version]](https://www.npmjs.com/package/image-show-react)
 
 A simple and customizable image carousel component library for React.
 
